@@ -1,4 +1,6 @@
 # Hi there 👋
+### I'm Ryu TAKAKURA
+I'm a student of Fukuoka Institute of Technology
 
 [![ryutkura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryutkura&theme=vue-dark&show_icons=true)](https://github.com/ryutkura/github-readme-stats)
 
