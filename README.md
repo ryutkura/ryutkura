@@ -2,9 +2,9 @@
 ### I'm Ryu TAKAKURA
 I'm a student of Fukuoka Institute of Technology
 
-[![ryutkura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryutkura&theme=vue-dark&show_icons=true)](https://github.com/ryutkura/github-readme-stats)
+[![ryutkura's GitHub stats](https://github-readme-stats-clone-wo8t.vercel.app/api?username=ryutkura&theme=vue-dark&show_icons=true)](https://github.com/ryutkura/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryutkura&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ryutkura/github-readme-stats)
+[![Top Langs](https://github-readme-stats-clone-wo8t.vercel.app/api/top-langs/?username=ryutkura&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ryutkura/github-readme-stats)
 
 <!--
 **ryutkura/ryutkura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
