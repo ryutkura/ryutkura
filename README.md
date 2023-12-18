@@ -7,7 +7,7 @@ I'm a student of Fukuoka Institute of Technology
 
 
 <!--[![Top Langs](https://new-github-readme-stats-6qqc.vercel.app/api/top-langs/?username=ryutkura&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ryutkura/new-github-readme-stats)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryutkura)](https://github.com/ryutkura/new-github-readme-stats)
 <!--
 **ryutkura/ryutkura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
