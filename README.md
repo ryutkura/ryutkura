@@ -3,7 +3,7 @@
 I'm a student of Fukuoka Institute of Technology
 
 <!--[![ryutkura's GitHub stats](https://new-github-readme-stats-6qqc.vercel.app/api?username=ryutkura&theme=vue-dark&show_icons=true)](https://github.com/ryutkura/new-github-readme-stats)-->
-![github-readme-stats](https://new-github-readme-stats-6qqc.vercel.app/api/?username=ryutkura)
+[![ryutkura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryutkura)](https://github.com/ryutkura/new-github-readme-stats)
 
 
 <!--[![Top Langs](https://new-github-readme-stats-6qqc.vercel.app/api/top-langs/?username=ryutkura&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ryutkura/new-github-readme-stats)-->
